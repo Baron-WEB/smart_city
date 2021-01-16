@@ -26,6 +26,16 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 }
+/*octotree
+maven {
+            url "https://maven.aliyun.com/nexus/content/groups/public"
+        }
+        maven {
+            url "https://maven.aliyun.com/nexus/content/repositories/jcenter"
+        }
+        google()
+        jcenter()   //example：声明代码托管库jcenter，设置之后可以在项目中轻松引用jcenter上的开源项目
+        */
 
 dependencies {
     //okhttps
