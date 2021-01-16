@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#2962FF</color>
+<!--    <color name="dark_blue">#2252D4</color>-->
+    <color name="dark_blue">#0039cb</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#757575</color>
+    <color name="error">#B00020</color>
+    <color name="background">#F5F5F5</color>
+    <color name="primaryLightColor">#768fff</color>
+</resources>
